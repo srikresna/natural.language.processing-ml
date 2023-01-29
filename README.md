@@ -24,6 +24,8 @@ Import following library :
 * Pandas
 * Matplotlib
 * SKLearn
+* Seaborn
+* NLTK
 
 ## Contributing
 
