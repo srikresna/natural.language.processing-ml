@@ -27,6 +27,8 @@ Import following library :
 * Seaborn
 * NLTK
 
+or just `run requirement.txt`
+
 ## Contributing
 
 Pull requests are welcome. For significant changes, please open an issue first
